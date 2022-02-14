@@ -15,7 +15,8 @@
      * createPlatform() takes these arguments:
      *      
      *      createPlatform(x, y, scaleX, scaleY);
-     * 
+     * /*
+            
      *      x: The x coordineate for the platform.
      *      y: The y coordineate for the platform.
      *      scaleX: OPTIONAL The scale factor on the x-axis, this value will 
